@@ -37,9 +37,14 @@ h1 {
 }
 .frist-sec {
   display: flex;
+  margin-top: 20px;
 }
-.header {
-  padding-top: 20px;
+
+.border {
+  border-left: solid 3px rgb(175, 105, 171);
+}
+.border h1 {
+  padding-left: 7px;
 }
 .width-50 {
   width: 50%;
