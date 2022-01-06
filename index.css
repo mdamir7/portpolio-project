@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100vh;
+  margin: auto;
+}
+img {
+  width: 300px;
+  max-width: 100%;
+  object-fit: contain;
+}
+.frist-sec {
+  display: flex;
+}
+.header {
+  padding-top: 20px;
+}
+.width-50 {
+  width: 50%;
+}
+.yellow {
+  color: rgb(156, 50, 116);
+}
+.btn {
+  border-radius: 7px;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  background-color: coral;
+  color: #ffff;
+  border: none;
+}
+h1 {
+  font-size: 42px;
+}
+.mission h1 {
+  text-align: center;
+}
