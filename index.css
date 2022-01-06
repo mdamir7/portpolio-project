@@ -78,3 +78,14 @@ a {
   text-align: center;
   margin: 35px;
 }
+.footer {
+  background-color: black;
+  color: #ffff;
+  text-align: center;
+  padding: 30px;
+}
+.footer p {
+  padding: 10px;
+  font-size: 17px;
+  color: rgb(133, 131, 131);
+}
