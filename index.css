@@ -39,3 +39,27 @@ h1 {
 .mission h1 {
   text-align: center;
 }
+.missin {
+  display: flex;
+}
+.card {
+  flex-basis: 33%;
+  margin: 3px;
+  margin-top: 20px;
+}
+.card1 {
+  background-color: skyblue;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.card2 {
+  background-color: seagreen;
+  padding: 10px;
+  border-radius: 4px;
+}
+.card3 {
+  background-color: slateblue;
+  padding: 10px;
+  border-radius: 4px;
+}
