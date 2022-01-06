@@ -20,6 +20,7 @@ img {
 }
 .width-50 {
   width: 50%;
+  margin: 10px;
 }
 .yellow {
   color: rgb(156, 50, 116);
